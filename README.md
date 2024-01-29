@@ -26,9 +26,9 @@ Make sure you have the following dependencies installed:
 
 You can install these dependencies using the following command:
 
-    ```bash
-    pip install numpy pandas nltk scikit-learn requests streamlit python-dotenv
-    ```
+```bash
+pip install numpy pandas nltk scikit-learn requests streamlit python-dotenv
+```
 
 ## Usage
 
